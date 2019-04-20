@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02b5b60a-d1f4-4f58-933f-d964da349452" name="Default Changelist" comment="" />
+    <list default="true" id="02b5b60a-d1f4-4f58-933f-d964da349452" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="74">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -79,7 +82,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blockpy-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blockpy-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,12 +163,20 @@
       <workItem from="1555074016589" duration="10587000" />
       <workItem from="1555166918848" duration="1992000" />
       <workItem from="1555500829442" duration="4271000" />
-      <workItem from="1555766333977" duration="915000" />
+      <workItem from="1555766333977" duration="1898000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;第一次提交-xwp&quot;">
+      <created>1555768242745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555768242745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17765000" />
+    <option name="totallyTimeSpent" value="18748000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -168,9 +189,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="612" height="610" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4113475" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32269505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -196,6 +216,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/blockly" />
+      <path value="$PROJECT_DIR$/blockpy" />
+      <path value="$PROJECT_DIR$/root/blockpy/blockly" />
+      <path value="$PROJECT_DIR$/skulpt" />
+      <path value="https://github.com/xwp1234/blockpy.githttps://github.com/xwp1234/blockpy.git" />
+    </ignored-roots>
+    <MESSAGE value="&quot;第一次提交-xwp&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;第一次提交-xwp&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -455,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="74">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

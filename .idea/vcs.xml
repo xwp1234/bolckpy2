@@ -2,10 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/blockly" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/blockpy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/root/blockpy/blockly" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/skulpt" vcs="Git" />
-    <mapping directory="https://github.com/xwp1234/blockpy.githttps://github.com/xwp1234/blockpy.git" vcs="" />
   </component>
 </project>
