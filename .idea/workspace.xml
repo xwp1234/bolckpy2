@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02b5b60a-d1f4-4f58-933f-d964da349452" name="Default Changelist" comment="Merge branch 'master' of https://github.com/xwp1234/blockpy&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;LICENSE">
-      <change afterPath="$PROJECT_DIR$/blockly" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure-deps/bin/closuremakedeps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure-deps/bin/getjsversion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/closurebuilder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/depstree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/depstree_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/depswriter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/depswriter_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/jscompiler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/jscompiler_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/source.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/source_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/build/treescan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/calcdeps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/generate_closure_unit_tests/generate_closure_unit_tests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/generate_closure_unit_tests/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/labs/code/closure.el" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/labs/code/closure_test.el" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/labs/code/generate_jsdoc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/labs/code/generate_jsdoc_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/labs/code/run_el_tests.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/labs/code/run_py_tests.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/logos/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/logos/logoandlabel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure-library/closure/bin/scopify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skulpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="02b5b60a-d1f4-4f58-933f-d964da349452" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
     </list>
@@ -72,12 +46,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="240">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -94,6 +68,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/example_server.py" />
+        <option value="$PROJECT_DIR$/LICENSE" />
       </list>
     </option>
   </component>
@@ -108,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +94,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,7 +165,8 @@
       <workItem from="1555074016589" duration="10587000" />
       <workItem from="1555166918848" duration="1992000" />
       <workItem from="1555500829442" duration="4271000" />
-      <workItem from="1555766333977" duration="2806000" />
+      <workItem from="1555766333977" duration="3026000" />
+      <workItem from="1555770214813" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;第一次提交-xwp&quot;">
       <created>1555768242745</created>
@@ -206,11 +182,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555769044828</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/xwp1234/blockpy&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;LICENSE">
+      <created>1555770004509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555770004509</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19656000" />
+    <option name="totallyTimeSpent" value="20704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -222,9 +205,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="612" height="610" extended-state="6" />
+    <frame x="64" y="-11" width="614" height="618" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4503546" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.40425533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,8 +220,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.64315355" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.5743381" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30912864" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -260,7 +243,8 @@
       <path value="https://github.com/xwp1234/blockpy.githttps://github.com/xwp1234/blockpy.git" />
     </ignored-roots>
     <MESSAGE value="&quot;第一次提交-xwp&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;第一次提交-xwp&quot;" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/xwp1234/blockpy&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;LICENSE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/xwp1234/blockpy&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;LICENSE" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -518,13 +502,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/example_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="240">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
